@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Linking Dark Matter and Neutrino Mass}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}How to Generate a Neutrino Mass}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Dark Matter and the Role of $\mathbb {Z}_2$}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}The Low Energy Effective Field Theory}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Lagrangian and Particle Content}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Why must it be an effective theory?}{5}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Generation of Neutrino Masses}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Case 1: Real Scalar Field}{5}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Case 2: Complex Scalar Field}{6}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Astrophysical, Cosmological, and Particle Physics Constraints}{7}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dark Matter Annihilation Cross Section}{7}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Light Meson and Tau Decay}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}CMB Constraints on the Scalar Mass}{8}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Additional Constraints}{9}{subsubsection.3.3.4}
+\contentsline {subsection}{\numberline {3.4}$\nu \nu \rightarrow \delta \delta $ Cross Section}{9}{subsection.3.4}
+\contentsline {section}{\numberline {4}IceCube, IceCube-170922A, and TXS 0506+056}{10}{section.4}
+\contentsline {section}{\numberline {5}The Neutrino Luminosity from TXS 0506+056}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Discussion regarding the consistency of the neutrino and photon flux}{12}{subsection.5.1}
+\contentsline {section}{\numberline {6}Assumptions in our Approach}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}Why do we only have to worry about one process?}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Contribution from $\nu \delta \rightarrow \nu \delta $}{14}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}$t$-Channel Cross Section}{14}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}$s$-Channel Cross Section}{14}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}The interference term}{15}{subsubsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.4}Number Density on Cosmological Scales}{15}{subsubsection.6.2.4}
+\contentsline {subsubsection}{\numberline {6.2.5}Number Density on Galactic Scales}{15}{subsubsection.6.2.5}
+\contentsline {subsection}{\numberline {6.3}Mass Splitting in the Complex Case}{16}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Redshift Considerations}{17}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Including Neutrino Mass Hierarchies}{17}{subsection.6.5}
+\contentsline {subsubsection}{\numberline {6.5.1}Mass Eigenstates and the PMNS Matrix}{18}{subsubsection.6.5.1}
+\contentsline {subsubsection}{\numberline {6.5.2}The Mass Hierarchy}{18}{subsubsection.6.5.2}
+\contentsline {subsubsection}{\numberline {6.5.3}Constraints on the Masses}{18}{subsubsection.6.5.3}
+\contentsline {subsection}{\numberline {6.6}The Coupling Constants}{19}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Neutrino Clustering}{19}{subsection.6.7}
+\contentsline {section}{\numberline {7}Results}{20}{section.7}
+\contentsline {subsection}{\numberline {7.1}Parameter Choices}{20}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Analysis}{20}{subsection.7.2}
+\contentsline {section}{\numberline {8}Conclusions}{22}{section.8}
+\contentsline {section}{\numberline {A}Full Results}{26}{appendix.A}

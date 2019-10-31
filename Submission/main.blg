@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: main.bib
+Warning--entry type for "IceCube" isn't style-file defined
+--line 459 of file main.bib
+Warning--entry type for "HAWC" isn't style-file defined
+--line 600 of file main.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 55 entries,
+            3411 wiz_defined-function locations,
+            1550 strings with 19476 characters,
+and the built_in function-call counts, 37441 in all, are:
+= -- 2196
+> -- 1195
+< -- 169
++ -- 950
+- -- 292
+* -- 5160
+:= -- 4113
+add.period$ -- 55
+call.type$ -- 55
+change.case$ -- 223
+chr.to.int$ -- 53
+cite$ -- 55
+duplicate$ -- 3350
+empty$ -- 3189
+format.name$ -- 759
+if$ -- 7108
+int.to.chr$ -- 3
+int.to.str$ -- 56
+missing$ -- 514
+newline$ -- 180
+num.names$ -- 165
+pop$ -- 839
+preamble$ -- 1
+purify$ -- 220
+quote$ -- 0
+skip$ -- 1401
+stack$ -- 0
+substring$ -- 1252
+swap$ -- 2653
+text.length$ -- 139
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 328
+warning$ -- 0
+while$ -- 158
+width$ -- 0
+write$ -- 610
+(There were 2 warnings)
