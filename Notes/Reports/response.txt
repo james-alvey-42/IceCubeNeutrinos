@@ -1,0 +1,109 @@
+{\it The cosmological lower bounds from BBN and CMB on scalar mass need
+to be elaborated on. Authors in sect 5.7 have briefly mentioned these bounds
+but more emphasis on these bounds in the introduction, in sect 3.3.3 and in
+figures is required.}
+
+We have added Section 3.3.3 to deal with these bounds. To make the discussion clearer, we have also moved the original comments in Section 5.7 to this section.
+
+{\it Another key issue is the maximum bound found in Ref.
+[40]. This bound needs to be explained more clearly and the conflict with
+the value in Table 4.1 should be explained. Ref [40] reports an observational
+upper bound of $\sim 10^{46} \, \textrm{erg/s}$ which is consistent with (and weaker than) the
+constraint from the cascade emission consideration. Is the value reported in
+Table 4.1 an upper bound or a measurement? If it is the latter, then there is
+an inconsistency. Relevance of these bounds on the mean free path argument
+should be made more clear.}
+
+We have clarified the above points at the end of Section 4.2.1 including amendments to Table 4.1 which should hopefully make the fact that the IceCube value from Ref. [27] is indeed an upper bound on the flux. We also discuss the interpretation of the value in Ref. [40] as suggested.
+
+
+{\it In addition to the above points, some minor but important changes are
+required that I list below.
+
+1) The second sentence of the fourth paragraph of
+the introduction (starting with "This is a coincidence" needs to be edited.}
+
+This has been fixed.
+
+{\it 2) The symbol $\psi$ appearing in Eq. (2.1) needs to be defined.}
+
+We have defined it as the SU(2) doublet for the lepton sector after Eq. (2.1).
+
+{\it 3) In the first line of sect 2.2, a reference for the 23\% is required.}
+
+We have updated the value and provided a reference (Ref. [42]).
+
+
+{\it 4) In sect 3.2, the emphasis on the Majorana nature of $N_i$ is required.}
+
+This has been made clearer at the top of page 5.
+
+{\it 5) Recently it has been shown that for DM mass lighter than few GeV,
+the value of annihilation cross section to obtain the right relic abundance is
+a bit different from 1 pb so the numerical values in section 3.3.1 should be
+updated.}
+
+This value has been updated and a reference provided (Ref. [43]).
+
+{\it 6) After Eq (3.10), there is a discussion of naturalness which is not valid as
+the smallness of the splitting compared to the $\delta_i$ masses can be explained by
+an approximate lepton number conservation. This argument can be invoked
+in sec 5.3, too.}
+
+This has been reflected in the changes at the end of Section 3.3.1.
+
+{\it 7) $A$ and $B$ in sec 3.3.2 should be defined. First sentence in sect 3.3.2 is
+misleading and may be interpreted as neutrino decay.}
+
+This has been fixed.
+
+{\it 8) In the first line of page 8, the powers of 2 are redundant.}
+
+The powers of 2 have been removed.
+
+{\it 9) CMB bounds should be added to Sec 3.3.3.}
+
+The bounds have not been added to Section 3.3.3, instead to keep the CMB discussion self-contained, they are given in Table 3.1 in Section 3.3.2.
+
+{\it 10) In the first paragraph of sec 4, the 5th sentence should be modified to
+"When a muon neutrino interact with ice via charged current interactions,"}
+
+This has been fixed.
+
+{\it 11) Sect 5.2.1 is confusing and contains contradictory claims about the
+ratios of the cross sections. Moreover the interference of the t-channel and
+s-channel amplitudes should be discussed.}
+
+Section 5.2.1 has been amended and Section 5.2.3 has been added to deal with the interference term between the s-channel and t-channel amplitudes.
+
+{\it 12) The argument in the line after Eq (5.14) is not convincing.}
+
+The argument has been extended after Eq. (5.14).
+
+{\it 13) In sec 5.5, instead of simultaneous, it is better to write the same.}
+
+This has been fixed.
+
+{\it 14) In the first paragraph of sect 5.7, the following phrases need to be
+edited "to see the separate the constraint" and "different to" $\rightarrow$ "different
+from".}
+
+This has been fixed.
+
+{\it 15) In the last sentence of sect 5.8, the authors should replace "mean
+free path" with "optical depth" because "mean free path" is a local concept
+inversely proportional to the number density.}
+
+This has been fixed.
+
+{\it 16) In the figures, the line marked with "K + decay" is in fact Eq (3.9).
+The horizontal line comes from "K + decay".}
+
+The plots have been updated to reflect this.
+
+{\it 17) The format that the references appear looks non-standard.}
+
+The references have been updated to reflect this.
+
+{\it With kind regards,
+The referee}
