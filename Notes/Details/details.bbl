@@ -1,0 +1,111 @@
+\begin{thebibliography}{12}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{IceCube}(2018{\natexlab{a}})}]{IceCube}
+\bibinfo{author}{\bibnamefont{IceCube}}, \emph{\bibinfo{title}{Icecube: South
+  pole neutrino observatory}} (\bibinfo{year}{2018}{\natexlab{a}}),
+  \urlprefix\url{https://icecube.wisc.edu/science/icecube/detector}.
+
+\bibitem[{\citenamefont{IceCube}(2018{\natexlab{b}})}]{IceCube2018}
+\bibinfo{author}{\bibnamefont{IceCube}}, \bibinfo{type}{Tech. Rep.}
+  (\bibinfo{year}{2018}{\natexlab{b}}), \eprint{1807.08794v1},
+  \urlprefix\url{https://arxiv.org/pdf/1807.08794.pdf}.
+
+\bibitem[{\citenamefont{Kelly and Machado}(2018)}]{Kelly}
+\bibinfo{author}{\bibfnamefont{K.~J.} \bibnamefont{Kelly}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.~A.~N.} \bibnamefont{Machado}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2018}), \eprint{1808.02889v2},
+  \urlprefix\url{https://arxiv.org/pdf/1808.02889.pdf}.
+
+\bibitem[{\citenamefont{Ackermann et~al.}(2018)\citenamefont{Ackermann,
+  Fermi-LAT, MAGIC, AGILE, Kanata, Kiso, Kapteyn, Subaru, and
+  VERITAS}}]{Ackermann2018}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Ackermann}},
+  \bibinfo{author}{\bibnamefont{Fermi-LAT}},
+  \bibinfo{author}{\bibnamefont{MAGIC}}, \bibinfo{author}{\bibnamefont{AGILE}},
+  \bibinfo{author}{\bibnamefont{Kanata}}, \bibinfo{author}{\bibnamefont{Kiso}},
+  \bibinfo{author}{\bibnamefont{Kapteyn}},
+  \bibinfo{author}{\bibnamefont{Subaru}}, \bibnamefont{and}
+  \bibinfo{author}{\bibnamefont{VERITAS}}, \bibinfo{journal}{Science}
+  \textbf{\bibinfo{volume}{361}} (\bibinfo{year}{2018}), ISSN
+  \bibinfo{issn}{10959203}, \eprint{1807.08816}.
+
+\bibitem[{\citenamefont{Padovani et~al.}(2018)\citenamefont{Padovani, Giommi,
+  Resconi, Glauch, Arsioli, Sahakyan, and Huber}}]{Padovani2018}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Padovani}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Giommi}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Resconi}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Glauch}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Arsioli}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Sahakyan}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Huber}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{2018}), \eprint{1807.04461v1},
+  \urlprefix\url{http://icecube.wisc.edu}.
+
+\bibitem[{\citenamefont{Hooper et~al.}(2018)\citenamefont{Hooper, Linden, and
+  Vieregg}}]{Hooper2018}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Hooper}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Linden}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Vieregg}}, pp.
+  \bibinfo{pages}{0--19} (\bibinfo{year}{2018}), \eprint{1810.02823v1},
+  \urlprefix\url{http://orcid.org/0000-0001-8837-41272ORCID:http://orcid.org/0000-0001-9888-09713ORCID:http://orcid.org/0000-0002-4528-9886}.
+
+\bibitem[{\citenamefont{Dermer and Menon}(2009)}]{dermer2009high}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Dermer}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Menon}},
+  \emph{\bibinfo{title}{High Energy Radiation from Black Holes: Gamma Rays,
+  Cosmic Rays, and Neutrinos}}, Princeton Series in Astrophysics
+  (\bibinfo{publisher}{Princeton University Press}, \bibinfo{year}{2009}), ISBN
+  \bibinfo{isbn}{9780691144085},
+  \urlprefix\url{https://books.google.co.uk/books?id=XtXLlgVlMEcC}.
+
+\bibitem[{\citenamefont{Franarin et~al.}(2018)\citenamefont{Franarin,
+  Fairbairn, and Davis}}]{Franarin2018}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Franarin}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Fairbairn}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Davis}}
+  (\bibinfo{year}{2018}), \eprint{1806.05015},
+  \urlprefix\url{http://arxiv.org/abs/1806.05015}.
+
+\bibitem[{\citenamefont{Farzan and Palomares-Ruiz}(2014)}]{Farzan2014}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Palomares-Ruiz}}, pp.
+  \bibinfo{pages}{1--24} (\bibinfo{year}{2014}), \eprint{1401.7019},
+  \urlprefix\url{http://arxiv.org/abs/1401.7019{\%}0Ahttp://dx.doi.org/10.1088/1475-7516/2014/06/014}.
+
+\bibitem[{\citenamefont{King}(2015)}]{King}
+\bibinfo{author}{\bibfnamefont{S.~F.} \bibnamefont{King}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{2015}), \eprint{1510.02091v2},
+  \urlprefix\url{https://arxiv.org/pdf/1510.02091.pdf}.
+
+\bibitem[{\citenamefont{Couchot et~al.}(2017)\citenamefont{Couchot,
+  Henrot-Versill{\'{e}}, Perdereau, Plaszczynski, {Rouill{\'{e}} D'orfeuil},
+  Spinelli, and Tristram}}]{Couchot2017}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Couchot}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Henrot-Versill{\'{e}}}},
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{Perdereau}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Plaszczynski}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{{Rouill{\'{e}} D'orfeuil}}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Spinelli}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Tristram}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2017}), \eprint{1703.10829v2},
+  \urlprefix\url{https://arxiv.org/pdf/1703.10829.pdf}.
+
+\bibitem[{\citenamefont{Ringwald and Wong}(2004)}]{Ringwald2004}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Ringwald}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Y.~Y.~Y.} \bibnamefont{Wong}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2004}),
+  \urlprefix\url{https://arxiv.org/pdf/hep-ph/0408241.pdf}.
+
+\end{thebibliography}

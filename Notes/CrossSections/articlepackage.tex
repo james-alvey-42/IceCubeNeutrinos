@@ -1,0 +1,191 @@
+\label{articlepackage}
+
+%\usepackage{tgbonum}
+
+\usepackage{soul}
+%\usepackage{hyperref}
+\usepackage{multicol}
+
+\usepackage{setspace}
+%\doublespacing
+
+\usepackage[T1]{fontenc}
+\usepackage{ifthen}
+
+\usepackage{bm}
+\usepackage{bibentry}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\numberwithin{equation}{section}
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+\usepackage{mathtools}
+\usepackage[inline]{enumitem}
+\usepackage{booktabs}
+
+%\usepackage[usenames,dvipsnames,pdftex]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,shapes,arrows,positioning,calc,snakes,fit}
+\usepgflibrary{decorations.markings}
+
+% \setcounter{section}{-1}
+
+\usepackage{graphicx} % standard package
+\usepackage{todonotes} % standard package
+\usepackage{amsmath} % standard package
+\DeclareMathOperator{\sech}{sech}
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand{\txtd}{\textrm{d}}
+\usepackage{amssymb} % useful for double backed letter functions
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsthm} % used to define theorem objects with command \begin{theorem} etc.
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{example}{Example}[subsection]
+\newtheorem*{definition}{Definition}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[numbers, sort&compress]{natbib}
+\bibliographystyle{apsrev} % bibliography package and style
+\renewcommand{\bibfont}{\small}
+\renewcommand{\citenumfont}[1]{\textbf{#1}}
+\renewcommand{\bibnumfmt}[1]{[\color{darkblue}\textbf{#1}\color{black}]}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings} % code listing and options
+\usepackage{color}
+
+%New colors defined below
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+%Code listing style named "mystyle"
+\lstdefinestyle{mystyle}{
+  backgroundcolor=\color{backcolour},   commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta},
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\footnotesize,
+  breakatwhitespace=false,
+  breaklines=true,
+  captionpos=b,
+  keepspaces=false,
+  numbers=right,
+  numbersep=4pt,
+  showspaces=false,
+  showstringspaces=false,
+  showtabs=false,
+  tabsize=2
+}
+\lstset{style=mystyle}
+
+\usepackage{tensor}
+
+\usepackage{color}
+\definecolor{SAEblue}{rgb}{0, .62, .91}
+\definecolor{linkgreen}{RGB}{11, 102, 35}
+\definecolor{darkblue}{rgb}{.11, .102, .35}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{colorlinks=true, urlcolor=darkblue, citecolor=linkgreen, runcolor=black, menucolor=black, filecolor=black, anchorcolor=black, linkcolor=black}
+\renewcommand\theequation{{\color{SAEblue}\arabic{equation}}}
+
+% \usepackage[flushmargin, hang]{footmisc}
+%   \addtolength{\footnotesep}{1mm}
+%   \setlength{\footnotemargin}{1em}
+%   \renewcommand{\thefootnote}{\textbf{\arabic{footnote}}}
+%   \renewcommand\footnoterule{{\hrule height 0.2pt}}
+
+
+\usepackage{sectsty}
+\sectionfont{\color{darkblue}\centering \large \textsc}
+\subsectionfont{\color{darkblue}\centering \normalsize \textit}
+\subsubsectionfont{\color{darkblue}\centering \small \textit}
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\arabic{section}.\arabic{subsection}}
+\renewcommand\thefigure{\arabic{section}.\arabic{figure}}
+
+\renewcommand\labelitemi{\raisebox{0.25ex}{\tiny$\bullet$}}
+\setenumerate{label=\color{SAEblue}{\textbf{\arabic*}}\color{black})}
+
+\theoremstyle{definition}
+
+\renewcommand\vec{\mathbf}
+\newcommand{\normord}[1]{\raisebox{0.5pt}{:}\,#1\,\raisebox{0.5pt}{:}}
+\newcommand{\dagg}{^{\dagger}}
+\newcommand{\pr}{^{\prime}}
+\newcommand{\nhat}{\hat{\bm{n}}}
+\newcommand{\hamilt}{\mathcal{H}}
+\newcommand{\mA}{\mathcal{A}}
+\newcommand{\mW}{\mathcal{W}}
+\newcommand{\mN}{\mathcal{N}}
+\newcommand{\mD}{\mathcal{D}}
+\newcommand{\mS}{\mathcal{S}}
+\newcommand{\mL}{\mathcal{L}}
+\newcommand{\mC}{\mathcal{C}}
+\newcommand{\mO}{\mathcal{O}}
+\newcommand{\mM}{\mathcal{M}}
+\newcommand{\mT}{\mathcal{T}}
+\newcommand{\mZ}{\mathcal{Z}}
+\newcommand{\mR}{\mathcal{R}}
+\newcommand{\II}{\mathbb{I}}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\CC}{\mathbb{C}}
+\newcommand{\FF}{\mathbb{F}}
+\newcommand{\lie}[1]{\mathcal{L}\left(#1\right)}
+\newcommand{\set}[1]{\left\{#1\right\}}
+\newcommand{\SO}[1]{\textrm{SO}\left(#1\right)}
+\newcommand{\SU}[1]{\textrm{SU}\left(#1\right)}
+\newcommand{\Orth}[1]{\textrm{O}\left(#1\right)}
+\newcommand{\Uni}[1]{\textrm{U}\left(#1\right)}
+\newcommand{\paraskip}{\vspace{10pt}}
+\newcommand{\del}{\partial}
+\newcommand{\TeG}{\mathcal{T}_e(\mathscr{G})}
+\newcommand{\TpM}{\mathcal{T}_p(\mathcal{M})}
+\newcommand{\TpMs}{\mathcal{T}^{\star}_p(\mathcal{M})}
+\newcommand{\etamn}[1]{\eta#1{\mu \nu}}
+\newcommand{\upd}[1]{\text{d}#1 \,}
+\newcommand{\ud}{\text{d}}
+\newcommand{\group}{\mathscr{G}}
+\newcommand{\alge}{\mathfrak{g}}
+\newcommand{\twobytwo}[4]{\begin{pmatrix}#1&#2 \\ #3&#4 \end{pmatrix}}
+\newcommand{\thrbythr}[3]{\begin{pmatrix}#1 \\ #2 \\ #3\end{pmatrix}}
+\newcount\colveccount
+\newcommand*\colvec[1]{
+        \global\colveccount#1
+        \begin{pmatrix}
+        \colvecnext
+}
+\def\colvecnext#1{
+        #1
+        \global\advance\colveccount-1
+        \ifnum\colveccount>0
+                \\
+                \expandafter\colvecnext
+        \else
+                \end{pmatrix}
+        \fi
+}
+\newcommand{\Abs}[1]{\left| #1 \right|}
+\newcommand{\tr}{\text{Tr}}
+
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
+
+\usepackage[flushmargin, hang]{footmisc}
+  \addtolength{\footnotesep}{1mm}
+  \setlength{\footnotemargin}{1em}
+  \renewcommand{\thefootnote}{\textbf{\arabic{footnote}}}
+  \renewcommand\footnoterule{{\hrule height 0.2pt}}
+
+\captionsetup[figure]{labelsep=quad, labelfont=bf, textfont=it, width=0.8\linewidth}
+\usepackage{framed}
+
+\usepackage[most]{tcolorbox}
+\newtcolorbox{titlebox}{arc=0mm,auto outer arc, colback=blue!5!white,colframe=black!75!black,leftrule=0pt,rightrule=0pt,toprule=1pt,bottomrule=1pt}
+
+\newtcolorbox{subbox}{arc=0mm,auto outer arc, colback=white!5!white,colframe=black!75!black,leftrule=0pt,rightrule=0pt,toprule=0pt,bottomrule=1pt}
+
+\newtcolorbox{examplebox1}{breakable,enhanced,arc=0mm,auto outer arc, colback=black!5!white,colframe=black!75!black,leftrule=1pt,rightrule=1pt,toprule=1pt,bottomrule=1pt,left=0mm,right=0mm}
+
+\newtcolorbox{examplebox2}{breakable,enhanced,arc=0mm,auto outer arc, colback=white!5!white,colframe=black!75!black,leftrule=1pt,rightrule=1pt,toprule=1pt,bottomrule=1pt,left=3mm,right=3mm}

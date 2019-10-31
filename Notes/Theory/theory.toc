@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {I}Neutrino Masses}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Starting Point: The Standard Model}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Majorana Neutrino Masses}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Tree Level Realisations of Majorana Masses}{3}{subsection.1.3}
+\contentsline {section}{\numberline {II}Linking Dark Matter and Majorana Neutrinos}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction to Dark Matter}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Understanding the Role of $\mathbb {Z}_2$}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}The Toy Model: $\textrm {SU}\left (2\right )_L \times \textrm {U}\left (1\right )_Y \times \mathbb {Z}_2$}{5}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Particle Content}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}The Higgs Potential}{6}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Yukawa Sector}{6}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Generating Neutrino Mass}{7}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Scalar Degrees of Freedom}{7}{subsubsection.2.3.5}
+\contentsline {section}{\numberline {III}The Low Energy Effective Field Theory}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Lagrangian and Particle Content}{8}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Why must it be an effective theory?}{9}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Generation of Neutrino Masses}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Case 1: Real Scalar Field}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Case 2: Complex Scalar Field}{11}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Astrophysical, Cosmological, and Particle Physics Constraints}{11}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dark Matter Annihilation Cross Section}{12}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Light Meson and Tau Decay}{13}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Additional Constraints}{15}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {IV}UV Completions of the Effective Model}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}Real Scalar Dark Matter}{15}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}The Low Energy Spectrum}{16}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Phenomenology}{17}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Complex Scalar Dark Matter}{17}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}$\mathscr {G}$-Symmetry Breaking}{18}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}The Scalar Spectrum}{19}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Phenomenology}{19}{subsubsection.4.2.3}
+\contentsline {section}{\numberline {V}Concluding Remarks}{19}{section.5}

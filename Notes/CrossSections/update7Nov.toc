@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Theory}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}The Lagrangian}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Dirac/Majorana Neutrinos}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Parameters of the Model}{2}{subsection.1.3}
+\contentsline {section}{\numberline {2}Calculation}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Program}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Amplitudes}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Squared Matrix Elements}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Computing the Traces}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Kinematics}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Method 1: The Differential Cross Section}{7}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Method 2: Integrating over $t$}{8}{subsection.2.7}
+\contentsline {section}{\numberline {3}Results}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Plotting the Cross Section}{10}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}What next?}{11}{subsection.3.2}

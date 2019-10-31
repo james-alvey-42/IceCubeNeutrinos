@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: details.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: details.bib
+Warning--entry type for "IceCube" isn't style-file defined
+--line 51 of file details.bib
+Warning--I didn't find a database entry for "Kellya"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--missing institution in IceCube2018
+Warning--missing institution in Kelly
+Warning--missing institution in Padovani2018
+Warning--missing institution in King
+Warning--missing institution in Couchot2017
+Warning--missing institution in Ringwald2004
+You've used 12 entries,
+            3411 wiz_defined-function locations,
+            1237 strings with 12600 characters,
+and the built_in function-call counts, 8057 in all, are:
+= -- 447
+> -- 326
+< -- 39
++ -- 273
+- -- 80
+* -- 1112
+:= -- 887
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 55
+chr.to.int$ -- 11
+cite$ -- 18
+duplicate$ -- 713
+empty$ -- 627
+format.name$ -- 198
+if$ -- 1452
+int.to.chr$ -- 2
+int.to.str$ -- 13
+missing$ -- 107
+newline$ -- 51
+num.names$ -- 36
+pop$ -- 237
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 0
+skip$ -- 288
+stack$ -- 0
+substring$ -- 170
+swap$ -- 559
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 70
+warning$ -- 6
+while$ -- 30
+width$ -- 0
+write$ -- 145
+(There were 8 warnings)

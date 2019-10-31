@@ -1,0 +1,168 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Ma}(1998)}]{Ma1998}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Ma}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{1998}),
+  \urlprefix\url{https://arxiv.org/pdf/hep-ph/9805219.pdf}.
+
+\bibitem[{\citenamefont{Bednyakov et~al.}(2007)\citenamefont{Bednyakov,
+  Giokaris, and Bednyakov}}]{Bednyakov2007}
+\bibinfo{author}{\bibfnamefont{V.~A.} \bibnamefont{Bednyakov}},
+  \bibinfo{author}{\bibfnamefont{N.~D.} \bibnamefont{Giokaris}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.~V.}
+  \bibnamefont{Bednyakov}}, \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2007}),
+  \urlprefix\url{https://arxiv.org/pdf/hep-ph/0703280.pdf}.
+
+\bibitem[{\citenamefont{Bellini et~al.}(2018)\citenamefont{Bellini, Ludhova,
+  Ranucci, and Villante}}]{Bellini2018}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Bellini}},
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Ludhova}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Ranucci}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{F.~L.} \bibnamefont{Villante}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2018}), \eprint{1310.7858v1},
+  \urlprefix\url{https://arxiv.org/pdf/1310.7858.pdf}.
+
+\bibitem[{\citenamefont{Bonnet et~al.}(2012)\citenamefont{Bonnet, Hirsch, Ota,
+  and Winter}}]{Bonnet2012}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Bonnet}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Hirsch}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Ota}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Winter}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2012}), \eprint{1204.5862v2},
+  \urlprefix\url{https://arxiv.org/pdf/1204.5862.pdf}.
+
+\bibitem[{\citenamefont{Ma}(2006{\natexlab{a}})}]{Ma2006a}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Ma}},
+  \bibinfo{journal}{Physical Review D - Particles, Fields, Gravitation and
+  Cosmology} \textbf{\bibinfo{volume}{73}}
+  (\bibinfo{year}{2006}{\natexlab{a}}), ISSN \bibinfo{issn}{15507998},
+  \eprint{0601225}.
+
+\bibitem[{\citenamefont{Carr et~al.}(2017)\citenamefont{Carr, K{\"{u}}hnel, and
+  Sandstad}}]{Carr}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Carr}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{K{\"{u}}hnel}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Sandstad}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2017}), \eprint{1607.06077v4},
+  \urlprefix\url{https://arxiv.org/pdf/1607.06077.pdf}.
+
+\bibitem[{\citenamefont{Kubo et~al.}(2006)\citenamefont{Kubo, Ma, and
+  Suematsu}}]{Kubo2006}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Kubo}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Ma}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Suematsu}},
+  \bibinfo{journal}{Physics Letters B} \textbf{\bibinfo{volume}{642}},
+  \bibinfo{pages}{18} (\bibinfo{year}{2006}), ISSN \bibinfo{issn}{03702693},
+  \eprint{0604114},
+  \urlprefix\url{http://arxiv.org/abs/hep-ph/0604114{\%}5Cnhttp://dx.doi.org/10.1016/j.physletb.2006.08.085{\%}5Cnhttp://linkinghub.elsevier.com/retrieve/pii/S037026930601094X}.
+
+\bibitem[{\citenamefont{Ma}(2006{\natexlab{b}})}]{Ma2006}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Ma}}
+  (\bibinfo{year}{2006}{\natexlab{b}}), \eprint{0605180},
+  \urlprefix\url{http://arxiv.org/abs/hep-ph/0605180{\%}0Ahttp://dx.doi.org/10.1142/S0217732306021141}.
+
+\bibitem[{\citenamefont{Ma}(2001)}]{Ma2001}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Ma}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{2001}),
+  \urlprefix\url{https://arxiv.org/pdf/hep-ph/0011121.pdf}.
+
+\bibitem[{\citenamefont{Farzan and Palomares-Ruiz}(2014)}]{Farzan2014}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Palomares-Ruiz}}, pp.
+  \bibinfo{pages}{1--24} (\bibinfo{year}{2014}), \eprint{1401.7019},
+  \urlprefix\url{http://arxiv.org/abs/1401.7019{\%}0Ahttp://dx.doi.org/10.1088/1475-7516/2014/06/014}.
+
+\bibitem[{\citenamefont{Farzan}(2011)}]{Farzan2011}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{2011}), \eprint{1106.2948v1},
+  \urlprefix\url{https://arxiv.org/pdf/1106.2948.pdf}.
+
+\bibitem[{\citenamefont{Farzan}(2010)}]{Farzan2010}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}}, \bibinfo{type}{Tech.
+  Rep.} (\bibinfo{year}{2010}), \eprint{1009.1234v1},
+  \urlprefix\url{https://arxiv.org/pdf/1009.1234.pdf}.
+
+\bibitem[{\citenamefont{Boehm et~al.}(2006)\citenamefont{Boehm, Farzan, Hambye,
+  Palomares-Ruiz, and Pascoli}}]{Boehm2006}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Boehm}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Hambye}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Palomares-Ruiz}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Pascoli}},
+  pp. \bibinfo{pages}{1--4} (\bibinfo{year}{2006}), \eprint{0612228},
+  \urlprefix\url{http://arxiv.org/abs/hep-ph/0612228{\%}0Ahttp://dx.doi.org/10.1103/PhysRevD.77.043516}.
+
+\bibitem[{\citenamefont{Farzan}(2009)}]{Farzan2009}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}},
+  \bibinfo{journal}{Physical Review D - Particles, Fields, Gravitation and
+  Cosmology} \textbf{\bibinfo{volume}{80}}, \bibinfo{pages}{4}
+  (\bibinfo{year}{2009}), ISSN \bibinfo{issn}{15507998}, \eprint{0908.3729}.
+
+\bibitem[{\citenamefont{Farzan et~al.}(2010)\citenamefont{Farzan, Pascoli, and
+  Schmidt}}]{Farzan2010a}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Pascoli}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~A.} \bibnamefont{Schmidt}},
+  \bibinfo{journal}{Journal of High Energy Physics}
+  \textbf{\bibinfo{volume}{2010}} (\bibinfo{year}{2010}), ISSN
+  \bibinfo{issn}{11266708}, \eprint{1005.5323}.
+
+\bibitem[{\citenamefont{Franarin et~al.}(2018)\citenamefont{Franarin,
+  Fairbairn, and Davis}}]{Franarin2018}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Franarin}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Fairbairn}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Davis}}
+  (\bibinfo{year}{2018}), \eprint{1806.05015},
+  \urlprefix\url{http://arxiv.org/abs/1806.05015}.
+
+\bibitem[{\citenamefont{Ambrosino et~al.}(2009)\citenamefont{Ambrosino,
+  Antonelli, Antonelli, Archilli, Beltrame, Bencivenni, Bini, Bloise,
+  Bocchetta, Bossi et~al.}}]{Ambrosino2009}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Ambrosino}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Antonelli}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Antonelli}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Archilli}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Beltrame}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Bencivenni}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Bini}},
+  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Bloise}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Bocchetta}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Bossi}},
+  \bibnamefont{et~al.}, \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2009}),
+  \eprint{0907.3594v2}, \urlprefix\url{https://arxiv.org/pdf/0907.3594.pdf}.
+
+\bibitem[{\citenamefont{Artamonov et~al.}(2016)\citenamefont{Artamonov,
+  Bassalleck, Bhuyan, Blackmore, Bryman, Chen, Chiang, Christidi, Cooper, Diwan
+  et~al.}}]{Artamonov2016}
+\bibinfo{author}{\bibfnamefont{A.~V.} \bibnamefont{Artamonov}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Bassalleck}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Bhuyan}},
+  \bibinfo{author}{\bibfnamefont{E.~W.} \bibnamefont{Blackmore}},
+  \bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{Bryman}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{I.-H.} \bibnamefont{Chiang}},
+  \bibinfo{author}{\bibfnamefont{I.-A.} \bibnamefont{Christidi}},
+  \bibinfo{author}{\bibfnamefont{P.~S.} \bibnamefont{Cooper}},
+  \bibinfo{author}{\bibfnamefont{M.~V.} \bibnamefont{Diwan}},
+  \bibnamefont{et~al.}, \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2016}),
+  \eprint{1606.09054v2}, \urlprefix\url{https://arxiv.org/pdf/1606.09054.pdf}.
+
+\bibitem[{\citenamefont{Boehm and Schaeffer}(2004)}]{Boehm2004}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Boehm}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Schaeffer}},
+  \bibinfo{type}{Tech. Rep.} (\bibinfo{year}{2004}),
+  \urlprefix\url{https://arxiv.org/pdf/astro-ph/0410591.pdf}.
+
+\end{thebibliography}

@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: theory.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: theory.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--missing institution in Ma1998
+Warning--missing institution in Bednyakov2007
+Warning--missing institution in Bellini2018
+Warning--missing institution in Bonnet2012
+Warning--missing institution in Carr
+Warning--missing institution in Ma2001
+Warning--missing institution in Farzan2011
+Warning--missing institution in Farzan2010
+Warning--missing institution in Ambrosino2009
+Warning--missing institution in Artamonov2016
+Warning--missing institution in Boehm2004
+You've used 19 entries,
+            3411 wiz_defined-function locations,
+            1282 strings with 15468 characters,
+and the built_in function-call counts, 12583 in all, are:
+= -- 686
+> -- 491
+< -- 72
++ -- 413
+- -- 122
+* -- 1750
+:= -- 1397
+add.period$ -- 19
+call.type$ -- 19
+change.case$ -- 87
+chr.to.int$ -- 18
+cite$ -- 30
+duplicate$ -- 1140
+empty$ -- 981
+format.name$ -- 291
+if$ -- 2256
+int.to.chr$ -- 2
+int.to.str$ -- 20
+missing$ -- 171
+newline$ -- 72
+num.names$ -- 57
+pop$ -- 328
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 459
+stack$ -- 0
+substring$ -- 255
+swap$ -- 914
+text.length$ -- 63
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 114
+warning$ -- 11
+while$ -- 46
+width$ -- 0
+write$ -- 222
+(There were 11 warnings)

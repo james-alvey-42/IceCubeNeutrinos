@@ -1,0 +1,33 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Farzan and Palomares-Ruiz}(2014)}]{Farzan2014}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Farzan}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Palomares-Ruiz}},
+  \bibinfo{journal}{JCAP} \textbf{\bibinfo{volume}{1406}}, \bibinfo{pages}{014}
+  (\bibinfo{year}{2014}), \eprint{1401.7019}.
+
+\bibitem[{\citenamefont{Patel}(2015)}]{Patel:2015tea}
+\bibinfo{author}{\bibfnamefont{H.~H.} \bibnamefont{Patel}},
+  \bibinfo{journal}{Comput. Phys. Commun.} \textbf{\bibinfo{volume}{197}},
+  \bibinfo{pages}{276} (\bibinfo{year}{2015}), \eprint{1503.01469}.
+
+\bibitem[{\citenamefont{Thomson}(2013)}]{Thomson:2013zua}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Thomson}},
+  \emph{\bibinfo{title}{{Modern particle physics}}}
+  (\bibinfo{publisher}{Cambridge University Press}, \bibinfo{address}{New
+  York}, \bibinfo{year}{2013}), ISBN \bibinfo{isbn}{9781107034266},
+  \urlprefix\url{http://www-spires.fnal.gov/spires/find/books/www?cl=QC793.2.T46::2013}.
+
+\end{thebibliography}
